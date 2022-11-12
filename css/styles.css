@@ -1,0 +1,40 @@
+
+/* SECOND CONTAINER */
+.second-container{
+  text-align: center;
+  background-color: magenta;
+  padding: 50px;
+
+}
+.btn2{
+  width: 200px;
+  height: 200px;
+  font-size: 7rem;
+  margin: 20px;
+  border: 10px solid black;
+  border-radius: 50px;
+
+}
+
+.m{
+  background-color: blue;
+}
+
+.n{
+  background-color: red;
+}
+
+.o{
+  background-color: lawngreen;
+}
+
+
+.shine{
+  background-color: yellow;
+}
+
+.pop{
+  color : magenta;
+  font-size: 4rem;
+  font-weight: 600;
+}
